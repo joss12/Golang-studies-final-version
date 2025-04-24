@@ -1,0 +1,6 @@
+INFO: 2025/04/24 09:38:15 logging.go:29: This is debug message.
+DEBUG: 2025/04/24 09:38:57 logging.go:29: This is debug message.
+DEBUG: 2025/04/24 09:43:23 logging.go:35: This is debug message.
+WARN: 2025/04/24 09:43:23 This is a warning message.
+INFO: 2025/04/24 09:43:23 logging.go:38: This is an info message.
+ERROR2025/04/24 09:43:23 logging.go:39: This is an error
