@@ -1,5 +1,5 @@
 // the go extension on vs code
-package main
+package intermediate
 
 import "fmt"
 
