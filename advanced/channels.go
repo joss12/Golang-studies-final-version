@@ -1,11 +1,10 @@
-package main
-
+package advanced
 import (
 	"fmt"
 	"time"
 )
 
-func main() {
+func channels() {
 	//to create a channel we use make functions
 	// variable := make(chan type)
 	greeting := make(chan string)
