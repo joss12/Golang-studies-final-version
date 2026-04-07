@@ -20,7 +20,7 @@ func main() {
 	fmt.Println(myMap)
 
 	//creating keys
-	myMap["key1"] = 9
+    myMap["key1"] = 9
 	myMap["code"] = 18
 	fmt.Println(myMap)
 	fmt.Println(myMap["key1"])
@@ -36,7 +36,7 @@ func main() {
 	fmt.Println(myMap)
 	//completely removing all the keyValues
 	// clear(myMap)
-	// fmt.Println(myMap)
+    // fmt.Println(myMap)
 
 	_, ok := myMap["key1"]
 	if ok {

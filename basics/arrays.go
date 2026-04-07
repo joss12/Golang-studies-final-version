@@ -9,7 +9,6 @@ func main() {
 
 	// numbers[4] = 20
 	// fmt.Println(numbers)
-
 	// numbers[0] = 9
 	// fmt.Println(numbers)
 
